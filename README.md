@@ -123,7 +123,7 @@ Le fichier :
 resultats.txt
 ```
 
-contient les résultats texte ainsi que les logs affichés pendant l’entraînement.
+contient les résultats texte ainsi que les logs affichés pendant l’entraînement (vidéo résultante : simulatiom_octo.mp4).
 
 Les résultats obtenus restent relativement mauvais, principalement à cause du très faible nombre d’epochs utilisé pour le fine-tuning (10 steps uniquement).
 
