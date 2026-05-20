@@ -130,3 +130,12 @@ Les résultats obtenus restent relativement mauvais, principalement à cause du 
 Même avec ce faible nombre d’epochs, l’entraînement a déjà pris environ 1h20 sur CPU sous Windows.
 
 Le robot effectue donc des mouvements instables et le cube peut parfois sembler se téléporter ou réagir de manière incohérente dans la simulation.
+
+## Modèle fine-tuné
+
+Le modèle fine-tuné généré pendant ce projet est disponible ici :
+
+[Télécharger le modèle fine-tuné Octo ALOHA](https://drive.google.com/drive/folders/1DZYL2Qi8Bl2qhzVMqtQwAQhoIr4KjmYv)
+
+Le dossier contient les checkpoints générés après le fine-tuning du modèle Octo sur le dataset ALOHA.
+
