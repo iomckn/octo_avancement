@@ -5,7 +5,7 @@
 Le projet a été réalisé avec :
 
 * Python 3.10.11
-* Le fichier `requirements_final.txt` contient les dépendances qui ont personnellement fonctionné pour ce projet.
+* Le fichier `requirements.txt` contient les dépendances qui ont personnellement fonctionné pour ce projet.
 
 Installation des dépendances qui marche pour moi:
 
